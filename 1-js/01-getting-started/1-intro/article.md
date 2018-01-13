@@ -1,4 +1,5 @@
-# An Introduction to JavaScript
+<div dir="rtl">
+<h1>مقدمة في لغة جافاسكريبت</h1>
 
 Let's see what's so special about JavaScript, what we can achieve with it and which other technologies play well with it.
 
@@ -119,3 +120,4 @@ There are more. Of course even if we use one of those languages, we should also 
 - JavaScript was initially created as a browser-only language, but now it is used in many other environments as well.
 - At this moment, JavaScript has a unique position as the most widely-adopted browser language with full integration with HTML/CSS.
 - There are many languages that get "transpiled" to JavaScript and provide certain features. It is recommended to take a look at them, at least briefly, after mastering JavaScript.
+</div>
