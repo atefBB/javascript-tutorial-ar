@@ -1,6 +1,5 @@
-# The JavaScript language
-
-Here we learn JavaScript, starting from scratch and go on to advanced concepts like OOP.
-
-We concentrate on the language itself here, with the minimum of environment-specific notes.
-
+<div dir="rtl">
+<h1>لغة جافاسكريبت</h1>
+<p>هنا نتعلم لغة جافاسكريبت، بدءَا من الصفر وصولا إلى مفاهيم متقدمة مثل البرمجة كائنية التوجه.</p>
+<p>نركز هنا على اللغة بحد ذاتها، مع قليل الملاحظات الخاصة ببيئة العمل.</p>
+</div>
