@@ -1,3 +1,4 @@
-# An introduction
-
-About the JavaScript language and the environment to develop with it.
+<div dir="rtl">
+<h1>مقدمة</h1>
+<p>عن لغة جافاسكريبت والبيئة التي سيتم التطوير بها</p>
+</div>
