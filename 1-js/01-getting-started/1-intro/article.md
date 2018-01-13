@@ -1,9 +1,10 @@
 <div dir="rtl">
 <h1>مقدمة في لغة جافاسكريبت</h1>
 
-Let's see what's so special about JavaScript, what we can achieve with it and which other technologies play well with it.
+<!--Let's see what's so special about JavaScript, what we can achieve with it and which other technologies play well with it.-->
+<p>لنرى ما هي خصوصية جافاسكريب، ما الذي يمكننا الوصول إليه عن طريقها وما التكنلوجيات اﻷخرى التي تنسجم معها.</p>
 
-## What is JavaScript?
+<h2>ما هي لغة جافاسكريبت</h2>
 
 *JavaScript* was initially created to *"make webpages alive"*.
 
